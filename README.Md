@@ -1,6 +1,4 @@
 
-Here's a polished description for your GitHub repository:
-
 ---
 
 # Machine Learning Model Ensemble for Classification
